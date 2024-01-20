@@ -15,6 +15,7 @@
 
 
 **macOS version**: Sonama 14.2.1
+
 **OpenCore version**: 0.9.7
 
 
