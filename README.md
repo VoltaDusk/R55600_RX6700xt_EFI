@@ -18,4 +18,9 @@
 
 **OpenCore version**: 0.9.7
 
+![info](./imgs/info.jpg)
+
+![gpu](./imgs/gpu.jpg)
+
+![](./imgs/neofetch.jpg)
 
